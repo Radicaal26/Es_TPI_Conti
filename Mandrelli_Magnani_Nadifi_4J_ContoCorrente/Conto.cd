@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mandrelli_Magnani_Nadifi_4J_ContoCorrente.ContoCorrente">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAIAgAEAiAAAAAAAAABAggAAAAEAAAQACgAA=</HashCode>
+      <FileName>ContoCorrente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mandrelli_Magnani_Nadifi_4J_ContoCorrente.Intestatario">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAASAAAAAAAABAAAAAQAEBAAAAQAAgDEAAI=</HashCode>
+      <FileName>ContoCorrente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mandrelli_Magnani_Nadifi_4J_ContoCorrente.Bonifico">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAIAAAAAQGAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>ContoCorrente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mandrelli_Magnani_Nadifi_4J_ContoCorrente.ContoOnline">
+    <Position X="2.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAIAAAEACAAAIAAEAAAAAQAAAAAAAAwAAAAA=</HashCode>
+      <FileName>ContoCorrente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mandrelli_Magnani_Nadifi_4J_ContoCorrente.Banca">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAABAAQAABAAAAQAAABAAIA=</HashCode>
+      <FileName>ContoCorrente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ContoCorrente" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Mandrelli_Magnani_Nadifi_4J_ContoCorrente.Movimento">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAABAAAAQAAAEAgAFAAAAAAAAAAAAEEQAAAAAAA=</HashCode>
+      <FileName>ContoCorrente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mandrelli_Magnani_Nadifi_4J_ContoCorrente.Prelievo">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAABAAAAAAAAAAgAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>ContoCorrente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mandrelli_Magnani_Nadifi_4J_ContoCorrente.Versamento">
+    <Position X="8" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAABAAAAAAAAAAgAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>ContoCorrente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
